@@ -1,0 +1,116 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "MacBook Pro 2019 A2159",
+      "price": "48,999.00",
+      "url": "./images/A2141.png",
+      "category": "MacBook"
+    },
+    {
+      "id": 2,
+      "title": "MacBook Pro 2019 A1990",
+      "price": "35,999.00",
+      "url": "./images/A1990.png",
+      "category": "MacBook"
+    },
+    {
+      "id": 3,
+      "title": "HP Laptop 15, 12th Gen",
+      "price": "31,999.00",
+      "url": "./images/HP15.png",
+      "category": "HP"
+    },
+    {
+      "id": 4,
+      "title": "MacBook Pro 2015 15-inch",
+      "price": "25,999.00",
+      "url": "./images/2015.png",
+      "category": "MacBook"
+    },
+    {
+      "id": 5,
+      "title": "Dell Latitude 3340",
+      "price": "58,999.00",
+      "url": "./images/Latitude3340.png",
+      "category": "Dell"
+    },
+    {
+      "id": 6,
+      "title": "MacBook 2015 13-inch",
+      "price": "20,999.00",
+      "url": "./images/13inch.png",
+      "category": "MacBook"
+    },
+    {
+      "id": 7,
+      "title": "DELL Latitude E6430",
+      "price": "16,999.00",
+      "url": "./images/DELLLatitudeE6430.png",
+      "category": "Dell"
+    },
+    {
+      "id": 8,
+      "title": "DELL Latitude 5590",
+      "price": "22,999.00",
+      "url": "./images/DELLLatitude5590.png",
+      "category": "Dell"
+    },
+    {
+      "id": 9,
+      "title": "HP EliteBook 640 G10",
+      "price": "22,599.00",
+      "url": "./images/hpelightbook.png",
+      "category": "HP"
+    },
+    {
+      "id": 10,
+      "title": "Dell Latitude 3440",
+      "price": "28,999.00",
+      "url": "./images/DellLatitude3440.png",
+      "category": "Dell"
+    },
+    {
+      "id": 11,
+      "title": "ASUS Zenbook Flip UX360",
+      "price": "35,999.00",
+      "url": "./images/ASUSZenbookFlipUX360.png",
+      "category": "ASUS"
+    },
+    {
+      "id": 12,
+      "title": "DELL LATITUDE 7480",
+      "price": "22,499.00",
+      "url": "./images/DELLLATITUDE7480.png",
+      "category": "Dell"
+    },
+    {
+      "id": 13,
+      "title": "Lenovo ThinkPad T470",
+      "price": "18,299.00",
+      "url": "./images/LenovoThinkPadT470.png",
+      "category": "Lenovo"
+    },
+    {
+      "id": 14,
+      "title": "Lenovo 2SIN IdeaPad Silm 5",
+      "price": "22,499.00",
+      "url": "./images/Lenovo2SINIdeaPadSilm5.png",
+      "category": "Lenovo"
+    },
+    {
+      "id": 15,
+      "title": "ASUS VivoBook 15 Laptop",
+      "price": "29,999.00",
+      "url": "./images/ASUSVivoBook15Laptop.png",
+      "category": "ASUS"
+    },
+    {
+      "id": 16,
+      "title": "Dell Latitude 7490",
+      "price": "24,799.00",
+      "url": "./images/DellLatitude7490.png",
+      "category": "Dell"
+    }
+  ]
+}
