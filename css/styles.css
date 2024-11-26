@@ -145,7 +145,7 @@ img {
   border-radius: 0.5rem;
   box-shadow: var(--box-shadow);
   border: 1px solid rgba(105, 105, 123, 0.1);
-  padding: 0.5rem 0;
+  padding: 0.5rem;
   margin-right: 1.5rem;
   width: 25rem;
   position: relative;
@@ -159,7 +159,7 @@ img {
   color: var(--default-color);
 }
 .navbar .col form button {
-  justify-content: center;
+  justify-content: right;
   padding: 0.5rem;
   background-color: transparent;
   border-left: 1px solid rgba(105, 105, 123, 0.1);
