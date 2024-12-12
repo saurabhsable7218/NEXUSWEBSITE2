@@ -154,6 +154,7 @@ img {
   text-indent: 1rem;
   font-size: 1.4rem;
   width: 100%;
+  margin-top: 0px;
 }
 .navbar .col form input::placeholder {
   color: var(--default-color);
