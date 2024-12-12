@@ -2,31 +2,31 @@
   "testimonials": [
     {
       "id": 1,
-      "name": "Rosele Desoza",
+      "name": "Kavya Gupta",
       "firstName": "rosele",
-      "position": "Marketing Coordinator",
+      "position": "Student",
       "info": "I recently bought a refurbished laptop from this website, and I couldn't be happier with the quality and performance. The customer service was incredibly helpful, guiding me to the perfect choice for my needs. Highly recommend for anyone looking for reliable and affordable laptops!",
       "class": "active"
     },
     {
       "id": 2,
-      "name": "Marvin McKinney",
+      "name": "Snehal Damle",
       "firstName": "marvin",
-      "position": "Web Designer",
+      "position": "Sales Executive",
       "info": "Shopping here was a great experience. They have a wide selection of both new and refurbished laptops, and the prices are unbeatable. The quality of the refurbished models exceeded my expectations. I will definitely return for future tech purchases."
     },
     {
       "id": 3,
-      "name": "Guy Hawkins",
+      "name": "Sandeep Kumar",
       "firstName": "guy",
-      "position": "President of Sales",
+      "position": "Marketing Coordinator",
       "info": "I bought a laptop from this site, and the process was seamless. The product arrived on time, well-packaged, and in perfect condition. The customer support team was quick to respond to my questions. I'll be back for all my tech needs!"
     },
     {
       "id": 4,
-      "name": "Kathryn Murphy",
+      "name": "Manish Bhattacharya",
       "firstName": "kathryn",
-      "position": "Marketing Coordinator",
+      "position": "Student",
       "info": "I’m extremely satisfied with my purchase. The website offers a fantastic range of laptops and accessories at great prices. Their customer service is top-notch, offering helpful advice and ensuring my order was processed smoothly. Highly recommend to anyone looking for quality tech products."
     }
   ]
